@@ -113,7 +113,7 @@ var Messages = {
                 sections: [{
                     widgets: [{
                         textParagraph: {
-                            text: "<b>Title:</b>\n" + task.title
+                            text: "<b>Title:</b>\n" + task.title + "\n\n <b>Due:</b>\n" + date
                         }
                     }]
                 },
