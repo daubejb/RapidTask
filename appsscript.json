@@ -1,0 +1,13 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "enabledAdvancedServices": [{
+      "userSymbol": "Tasks",
+      "serviceId": "tasks",
+      "version": "v1"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "chat": {
+  }
+}

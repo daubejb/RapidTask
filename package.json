@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "@types/google-apps-script": "0.0.32",
+        "typescript": "^3.2.1"
+    },
+    "devDependencies": {
+        "eslint": "^5.9.0",
+        "eslint-plugin-googleappsscript": "^1.0.1"
+    }
+}
